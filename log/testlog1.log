@@ -1,0 +1,352 @@
+2020-08-25 15:41:21,542 [main] INFO eCommerce - Login Page :Login Successful
+2020-08-25 15:42:20,472 [main] INFO eCommerce - Login Page :Login Successful
+2020-08-25 18:54:30,973 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-25 19:04:25,973 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-25 19:40:33,601 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-25 19:41:53,523 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 13:47:46,740 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 13:50:23,639 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 13:52:53,912 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 13:56:02,499 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 13:56:24,731 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 13:56:46,503 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 13:57:05,061 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 13:57:29,392 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 14:13:56,589 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 14:14:22,402 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 14:15:01,120 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 14:22:07,378 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 14:22:35,484 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 14:23:11,068 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 14:26:37,007 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 14:27:16,073 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 14:29:21,876 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 14:29:58,135 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 14:32:08,234 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 14:32:49,736 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 14:34:17,516 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 14:35:03,343 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 14:45:56,273 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 14:46:13,183 [main] INFO nopECommerce - Login Page :Login fail
+2020-08-26 14:46:33,561 [main] INFO nopECommerce - Login Page :Login Successful
+2020-08-26 14:46:49,796 [main] INFO nopECommerce - Login Page :Login fail
+2020-08-26 14:56:52,438 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-08-26 14:56:52,568 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-08-26 14:56:53,939 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-08-26 14:56:54,173 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-08-26 17:59:23,912 [main] INFO nopECommerce - providing customer details....
+2020-08-26 18:02:51,297 [main] INFO nopECommerce - providing customer details....
+2020-08-26 18:02:55,027 [main] INFO nopECommerce - Add New Customer button click
+2020-08-26 18:02:55,274 [main] INFO nopECommerce - Email id added
+2020-08-26 18:02:55,442 [main] INFO nopECommerce - Password entered
+2020-08-26 18:10:38,940 [main] INFO nopECommerce - providing customer details....
+2020-08-26 18:10:42,915 [main] INFO nopECommerce - Add New Customer button click
+2020-08-26 18:10:43,157 [main] INFO nopECommerce - Email id added
+2020-08-26 18:10:43,325 [main] INFO nopECommerce - Password entered
+2020-08-26 18:10:43,644 [main] INFO nopECommerce - Name added
+2020-08-26 18:10:43,998 [main] INFO nopECommerce - Gender and DOB added
+2020-08-26 18:10:44,246 [main] INFO nopECommerce - Company Name and Tax details added
+2020-08-26 18:18:12,044 [main] INFO nopECommerce - providing customer details....
+2020-08-26 18:18:15,643 [main] INFO nopECommerce - Add New Customer button click
+2020-08-26 18:18:15,921 [main] INFO nopECommerce - Email id added
+2020-08-26 18:18:16,165 [main] INFO nopECommerce - Password entered
+2020-08-26 18:18:16,469 [main] INFO nopECommerce - Name added
+2020-08-26 18:18:16,817 [main] INFO nopECommerce - Gender and DOB added
+2020-08-26 18:18:17,111 [main] INFO nopECommerce - Company Name and Tax details added
+2020-08-26 18:19:52,517 [main] INFO nopECommerce - providing customer details....
+2020-08-26 18:19:56,436 [main] INFO nopECommerce - Add New Customer button click
+2020-08-26 18:19:56,627 [main] INFO nopECommerce - Email id added
+2020-08-26 18:19:56,760 [main] INFO nopECommerce - Password entered
+2020-08-26 18:19:57,038 [main] INFO nopECommerce - Name added
+2020-08-26 18:19:57,312 [main] INFO nopECommerce - Gender and DOB added
+2020-08-26 18:19:57,533 [main] INFO nopECommerce - Company Name and Tax details added
+2020-08-26 18:20:36,105 [main] INFO nopECommerce - providing customer details....
+2020-08-26 18:20:41,295 [main] INFO nopECommerce - Add New Customer button click
+2020-08-26 18:20:41,506 [main] INFO nopECommerce - Email id added
+2020-08-26 18:20:41,642 [main] INFO nopECommerce - Password entered
+2020-08-26 18:20:41,893 [main] INFO nopECommerce - Name added
+2020-08-26 18:20:42,154 [main] INFO nopECommerce - Gender and DOB added
+2020-08-26 18:20:42,408 [main] INFO nopECommerce - Company Name and Tax details added
+2020-08-26 18:24:17,200 [main] INFO nopECommerce - providing customer details....
+2020-08-26 18:24:21,984 [main] INFO nopECommerce - Add New Customer button click
+2020-08-26 18:24:22,197 [main] INFO nopECommerce - Email id added
+2020-08-26 18:24:22,335 [main] INFO nopECommerce - Password entered
+2020-08-26 18:24:22,593 [main] INFO nopECommerce - Name added
+2020-08-26 18:24:22,876 [main] INFO nopECommerce - Gender and DOB added
+2020-08-26 18:24:23,109 [main] INFO nopECommerce - Company Name and Tax details added
+2020-08-26 18:30:11,981 [main] INFO nopECommerce - providing customer details....
+2020-08-26 18:30:15,271 [main] INFO nopECommerce - Add New Customer button click
+2020-08-26 18:30:15,483 [main] INFO nopECommerce - Email id added
+2020-08-26 18:30:15,614 [main] INFO nopECommerce - Password entered
+2020-08-26 18:30:15,870 [main] INFO nopECommerce - Name added
+2020-08-26 18:30:16,147 [main] INFO nopECommerce - Gender and DOB added
+2020-08-26 18:30:16,361 [main] INFO nopECommerce - Company Name and Tax details added
+2020-08-26 18:38:08,544 [main] INFO nopECommerce - providing customer details....
+2020-08-26 18:38:14,257 [main] INFO nopECommerce - Add New Customer button click
+2020-08-26 18:38:14,462 [main] INFO nopECommerce - Email id added
+2020-08-26 18:38:14,600 [main] INFO nopECommerce - Password entered
+2020-08-26 18:38:14,848 [main] INFO nopECommerce - Name added
+2020-08-26 18:38:15,079 [main] INFO nopECommerce - Gender and DOB added
+2020-08-26 18:38:15,395 [main] INFO nopECommerce - Company Name and Tax details added
+2020-08-26 18:41:12,312 [main] INFO nopECommerce - providing customer details....
+2020-08-26 18:41:16,939 [main] INFO nopECommerce - Add New Customer button click
+2020-08-26 18:41:17,163 [main] INFO nopECommerce - Email id added
+2020-08-26 18:41:17,294 [main] INFO nopECommerce - Password entered
+2020-08-26 18:41:17,549 [main] INFO nopECommerce - Name added
+2020-08-26 18:41:17,793 [main] INFO nopECommerce - Gender and DOB added
+2020-08-26 18:41:17,996 [main] INFO nopECommerce - Company Name and Tax details added
+2020-08-26 18:42:18,215 [main] INFO nopECommerce - providing customer details....
+2020-08-26 18:42:23,033 [main] INFO nopECommerce - Add New Customer button click
+2020-08-26 18:42:23,265 [main] INFO nopECommerce - Email id added
+2020-08-26 18:42:23,417 [main] INFO nopECommerce - Password entered
+2020-08-26 18:42:23,720 [main] INFO nopECommerce - Name added
+2020-08-26 18:42:23,993 [main] INFO nopECommerce - Gender and DOB added
+2020-08-26 18:43:14,221 [main] INFO nopECommerce - Company Name and Tax details added
+2020-08-26 18:44:04,497 [main] INFO nopECommerce - providing customer details....
+2020-08-26 18:44:09,861 [main] INFO nopECommerce - Add New Customer button click
+2020-08-26 18:44:10,075 [main] INFO nopECommerce - Email id added
+2020-08-26 18:44:10,208 [main] INFO nopECommerce - Password entered
+2020-08-26 18:44:10,452 [main] INFO nopECommerce - Name added
+2020-08-26 18:44:10,681 [main] INFO nopECommerce - Gender and DOB added
+2020-08-26 18:45:00,896 [main] INFO nopECommerce - Company Name and Tax details added
+2020-08-26 18:45:00,897 [main] INFO nopECommerce - Roles and Vendor added
+2020-08-26 18:45:03,034 [main] INFO nopECommerce - Save button clicked
+2020-08-26 18:45:03,036 [main] INFO nopECommerce - validation started....
+2020-08-26 18:45:03,424 [main] INFO nopECommerce - test case passed....
+2020-08-26 18:49:05,082 [main] INFO nopECommerce - providing customer details....
+2020-08-26 18:49:09,782 [main] INFO nopECommerce - Add New Customer button click
+2020-08-26 18:49:10,007 [main] INFO nopECommerce - Email id added
+2020-08-26 18:49:10,160 [main] INFO nopECommerce - Password entered
+2020-08-26 18:49:10,449 [main] INFO nopECommerce - Name added
+2020-08-26 18:49:10,698 [main] INFO nopECommerce - Gender and DOB added
+2020-08-26 18:50:00,903 [main] INFO nopECommerce - Company Name and Tax details added
+2020-08-26 18:51:37,067 [main] INFO nopECommerce - providing customer details....
+2020-08-26 18:51:40,526 [main] INFO nopECommerce - Add New Customer button click
+2020-08-26 18:51:40,733 [main] INFO nopECommerce - Email id added
+2020-08-26 18:51:40,866 [main] INFO nopECommerce - Password entered
+2020-08-26 18:51:41,136 [main] INFO nopECommerce - Name added
+2020-08-26 18:51:41,360 [main] INFO nopECommerce - Gender and DOB added
+2020-08-26 18:51:41,553 [main] INFO nopECommerce - Company Name and Tax details added
+2020-08-26 18:52:48,852 [main] INFO nopECommerce - providing customer details....
+2020-08-26 18:52:53,498 [main] INFO nopECommerce - Add New Customer button click
+2020-08-26 18:52:53,731 [main] INFO nopECommerce - Email id added
+2020-08-26 18:52:53,862 [main] INFO nopECommerce - Password entered
+2020-08-26 18:52:54,106 [main] INFO nopECommerce - Name added
+2020-08-26 18:52:54,337 [main] INFO nopECommerce - Gender and DOB added
+2020-08-26 18:52:54,544 [main] INFO nopECommerce - Company Name and Tax details added
+2020-08-26 21:34:46,190 [main] INFO nopECommerce - providing customer details....
+2020-08-26 21:34:52,441 [main] INFO nopECommerce - Add New Customer button click
+2020-08-26 21:34:52,797 [main] INFO nopECommerce - Email id added
+2020-08-26 21:34:53,010 [main] INFO nopECommerce - Password entered
+2020-08-26 21:34:53,325 [main] INFO nopECommerce - Name added
+2020-08-26 21:34:53,662 [main] INFO nopECommerce - Gender and DOB added
+2020-08-26 21:34:53,960 [main] INFO nopECommerce - Company Name and Tax details added
+2020-08-29 14:52:51,069 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-08-29 14:52:51,451 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-08-29 14:52:54,944 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-08-29 14:52:55,484 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-08-29 15:09:13,590 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-08-29 15:09:23,173 [main] INFO nopECommerce - Try to open URL
+2020-08-29 15:09:23,361 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-08-29 15:09:28,169 [main] INFO nopECommerce - Try to open URL
+2020-08-29 15:09:33,342 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-08-29 15:09:34,135 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-08-29 15:17:08,491 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-08-29 15:17:18,838 [main] INFO nopECommerce - Try to open URL
+2020-08-29 15:17:19,146 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-08-29 15:17:26,440 [main] INFO nopECommerce - Try to open URL
+2020-08-29 15:17:34,742 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-08-29 15:17:35,683 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-08-29 15:37:31,495 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-08-29 15:37:37,753 [main] INFO nopECommerce - Try to open URL
+2020-08-29 15:40:04,795 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-08-29 15:40:11,011 [main] INFO nopECommerce - Try to open URL
+2020-08-29 15:40:21,582 [main] INFO nopECommerce - URL open window maximized
+2020-08-29 15:40:33,584 [main] INFO nopECommerce - Login Page :Login fail
+2020-09-01 15:15:12,780 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-01 15:15:16,577 [main] INFO nopECommerce - Try to open URL
+2020-09-01 15:15:25,881 [main] INFO nopECommerce - URL open window maximized
+2020-09-01 15:15:31,463 [main] INFO nopECommerce - Login Page :Login fail
+2020-09-01 15:24:09,333 [main] INFO nopECommerce - providing customer details....
+2020-09-01 15:24:21,149 [main] INFO nopECommerce - Add New Customer button click
+2020-09-01 15:24:21,372 [main] INFO nopECommerce - Email id added
+2020-09-01 15:24:21,520 [main] INFO nopECommerce - Password entered
+2020-09-01 15:24:21,818 [main] INFO nopECommerce - Name added
+2020-09-01 15:24:22,039 [main] INFO nopECommerce - Gender and DOB added
+2020-09-01 15:24:22,250 [main] INFO nopECommerce - Company Name and Tax details added
+2020-09-01 15:24:54,612 [main] INFO nopECommerce - Save button clicked
+2020-09-01 15:24:54,616 [main] INFO nopECommerce - validation started....
+2020-09-01 15:24:54,968 [main] INFO nopECommerce - test case passed....
+2020-09-01 15:27:12,092 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-01 15:27:16,080 [main] INFO nopECommerce - Try to open URL
+2020-09-01 15:27:26,954 [main] INFO nopECommerce - URL open window maximized
+2020-09-01 15:27:35,718 [main] INFO nopECommerce - providing customer details....
+2020-09-01 15:27:43,566 [main] INFO nopECommerce - Add New Customer button click
+2020-09-01 15:27:43,783 [main] INFO nopECommerce - Email id added
+2020-09-01 15:27:43,920 [main] INFO nopECommerce - Password entered
+2020-09-01 15:27:44,172 [main] INFO nopECommerce - Name added
+2020-09-01 15:27:44,437 [main] INFO nopECommerce - Gender and DOB added
+2020-09-01 15:27:44,667 [main] INFO nopECommerce - Company Name and Tax details added
+2020-09-01 15:28:17,001 [main] INFO nopECommerce - Save button clicked
+2020-09-01 15:28:17,003 [main] INFO nopECommerce - validation started....
+2020-09-01 15:28:17,357 [main] INFO nopECommerce - test case passed....
+2020-09-01 15:28:48,104 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-01 15:28:51,641 [main] INFO nopECommerce - Try to open URL
+2020-09-01 15:29:03,056 [main] INFO nopECommerce - URL open window maximized
+2020-09-01 15:29:15,424 [main] INFO nopECommerce - Login Page :Login Successful
+2020-09-01 15:29:19,562 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-01 15:29:22,132 [main] INFO nopECommerce - Try to open URL
+2020-09-01 15:29:34,599 [main] INFO nopECommerce - URL open window maximized
+2020-09-01 15:29:46,427 [main] INFO nopECommerce - Login Page :Login Successful
+2020-09-01 15:29:51,545 [main] INFO nopECommerce - Login Page :Login fail
+2020-09-01 15:30:07,031 [main] INFO nopECommerce - Login Page :Login Successful
+2020-09-01 15:30:13,322 [main] INFO nopECommerce - Login Page :Login fail
+2020-09-01 15:30:14,622 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-01 15:30:17,172 [main] INFO nopECommerce - Try to open URL
+2020-09-01 15:30:29,980 [main] INFO nopECommerce - URL open window maximized
+2020-09-01 15:30:41,832 [main] INFO nopECommerce - providing customer details....
+2020-09-01 15:30:55,358 [main] INFO nopECommerce - Add New Customer button click
+2020-09-01 15:30:55,550 [main] INFO nopECommerce - Email id added
+2020-09-01 15:30:55,726 [main] INFO nopECommerce - Password entered
+2020-09-01 15:30:56,026 [main] INFO nopECommerce - Name added
+2020-09-01 15:30:56,246 [main] INFO nopECommerce - Gender and DOB added
+2020-09-01 15:30:56,463 [main] INFO nopECommerce - Company Name and Tax details added
+2020-09-01 15:31:29,722 [main] INFO nopECommerce - Save button clicked
+2020-09-01 15:31:29,724 [main] INFO nopECommerce - validation started....
+2020-09-01 15:31:30,077 [main] INFO nopECommerce - test case passed....
+2020-09-01 15:47:25,243 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-01 15:47:28,886 [main] INFO nopECommerce - Try to open URL
+2020-09-01 15:47:35,958 [main] INFO nopECommerce - URL open window maximized
+2020-09-01 15:47:41,495 [main] INFO nopECommerce - Login Page :Login Successful
+2020-09-01 15:47:46,291 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-01 15:47:48,809 [main] INFO nopECommerce - Try to open URL
+2020-09-01 15:47:56,865 [main] INFO nopECommerce - URL open window maximized
+2020-09-01 15:48:05,655 [main] INFO nopECommerce - Login Page :Login Successful
+2020-09-01 15:48:09,304 [main] INFO nopECommerce - Login Page :Login fail
+2020-09-01 15:48:12,805 [main] INFO nopECommerce - Login Page :Login Successful
+2020-09-01 15:48:17,580 [main] INFO nopECommerce - Login Page :Login fail
+2020-09-01 15:48:18,784 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-01 15:48:21,410 [main] INFO nopECommerce - Try to open URL
+2020-09-01 15:48:28,847 [main] INFO nopECommerce - URL open window maximized
+2020-09-01 15:48:34,742 [main] INFO nopECommerce - providing customer details....
+2020-09-01 15:48:43,169 [main] INFO nopECommerce - Add New Customer button click
+2020-09-01 15:48:43,378 [main] INFO nopECommerce - Email id added
+2020-09-01 15:48:43,515 [main] INFO nopECommerce - Password entered
+2020-09-01 15:48:43,760 [main] INFO nopECommerce - Name added
+2020-09-01 15:48:43,984 [main] INFO nopECommerce - Gender and DOB added
+2020-09-01 15:48:44,193 [main] INFO nopECommerce - Company Name and Tax details added
+2020-09-01 15:49:16,189 [main] INFO nopECommerce - Save button clicked
+2020-09-01 15:49:16,189 [main] INFO nopECommerce - validation started....
+2020-09-01 15:49:16,477 [main] INFO nopECommerce - test case passed....
+2020-09-01 15:50:57,847 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-01 15:51:01,500 [main] INFO nopECommerce - Try to open URL
+2020-09-01 15:51:09,203 [main] INFO nopECommerce - URL open window maximized
+2020-09-01 15:51:16,401 [main] INFO nopECommerce - Login Page :Login Successful
+2020-09-01 15:51:20,657 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-01 15:51:23,134 [main] INFO nopECommerce - Try to open URL
+2020-09-01 15:51:29,996 [main] INFO nopECommerce - URL open window maximized
+2020-09-01 15:51:38,049 [main] INFO nopECommerce - providing customer details....
+2020-09-01 15:51:42,660 [main] INFO nopECommerce - Add New Customer button click
+2020-09-01 15:51:42,876 [main] INFO nopECommerce - Email id added
+2020-09-01 15:51:43,012 [main] INFO nopECommerce - Password entered
+2020-09-01 15:51:43,256 [main] INFO nopECommerce - Name added
+2020-09-01 15:51:43,480 [main] INFO nopECommerce - Gender and DOB added
+2020-09-01 15:51:43,690 [main] INFO nopECommerce - Company Name and Tax details added
+2020-09-01 15:52:15,495 [main] INFO nopECommerce - Save button clicked
+2020-09-01 15:52:15,495 [main] INFO nopECommerce - validation started....
+2020-09-01 15:52:15,797 [main] INFO nopECommerce - test case passed....
+2020-09-01 16:52:44,856 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-01 16:52:49,261 [main] INFO nopECommerce - Try to open URL
+2020-09-01 16:52:55,756 [main] INFO nopECommerce - URL open window maximized
+2020-09-01 16:53:00,600 [main] INFO nopECommerce - Login Page :Login Successful
+2020-09-01 16:53:03,803 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-01 16:53:06,616 [main] INFO nopECommerce - Try to open URL
+2020-09-01 16:53:13,619 [main] INFO nopECommerce - URL open window maximized
+2020-09-01 16:53:20,743 [main] INFO nopECommerce - providing customer details....
+2020-09-01 16:53:25,394 [main] INFO nopECommerce - Add New Customer button click
+2020-09-01 17:18:02,972 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-01 17:18:06,711 [main] INFO nopECommerce - Try to open URL
+2020-09-01 17:18:15,158 [main] INFO nopECommerce - URL open window maximized
+2020-09-01 17:18:20,969 [main] INFO nopECommerce - Login Page :Login Successful
+2020-09-01 17:18:24,512 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-01 17:18:28,491 [main] INFO nopECommerce - Try to open URL
+2020-09-01 17:18:35,068 [main] INFO nopECommerce - URL open window maximized
+2020-09-01 17:18:42,325 [main] INFO nopECommerce - providing customer details....
+2020-09-01 17:18:47,510 [main] INFO nopECommerce - Add New Customer button click
+2020-09-01 17:18:50,735 [main] INFO nopECommerce - Email id added
+2020-09-01 17:18:50,881 [main] INFO nopECommerce - Password entered
+2020-09-01 17:18:51,350 [main] INFO nopECommerce - Name added
+2020-09-01 17:18:51,571 [main] INFO nopECommerce - Gender and DOB added
+2020-09-01 17:18:51,815 [main] INFO nopECommerce - Company Name and Tax details added
+2020-09-01 17:19:23,642 [main] INFO nopECommerce - Save button clicked
+2020-09-01 17:19:23,642 [main] INFO nopECommerce - validation started....
+2020-09-01 17:19:23,931 [main] INFO nopECommerce - test case passed....
+2020-09-01 17:21:58,268 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-01 17:22:02,835 [main] INFO nopECommerce - Try to open URL
+2020-09-01 17:22:10,205 [main] INFO nopECommerce - URL open window maximized
+2020-09-01 17:22:21,705 [main] INFO nopECommerce - Login Page :Login Successful
+2020-09-01 17:22:24,809 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-01 17:22:27,649 [main] INFO nopECommerce - Try to open URL
+2020-09-01 17:22:34,821 [main] INFO nopECommerce - URL open window maximized
+2020-09-01 17:22:41,401 [main] INFO nopECommerce - providing customer details....
+2020-09-01 17:22:46,913 [main] INFO nopECommerce - Add New Customer button click
+2020-09-01 17:22:50,135 [main] INFO nopECommerce - Email id added
+2020-09-01 17:22:50,305 [main] INFO nopECommerce - Password entered
+2020-09-01 17:22:50,564 [main] INFO nopECommerce - Name added
+2020-09-01 17:22:50,836 [main] INFO nopECommerce - Gender and DOB added
+2020-09-01 17:22:51,078 [main] INFO nopECommerce - Company Name and Tax details added
+2020-09-01 17:23:23,138 [main] INFO nopECommerce - Save button clicked
+2020-09-01 17:23:23,138 [main] INFO nopECommerce - validation started....
+2020-09-01 17:23:23,580 [main] INFO nopECommerce - test case passed....
+2020-09-02 17:04:11,740 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-02 17:04:20,960 [main] INFO nopECommerce - Try to open URL
+2020-09-02 17:04:25,608 [main] INFO nopECommerce - URL open window maximized
+2020-09-02 17:04:30,975 [main] INFO nopECommerce - Login Page :Login Successful
+2020-09-02 17:04:34,604 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-02 17:04:37,629 [main] INFO nopECommerce - Try to open URL
+2020-09-02 17:04:44,873 [main] INFO nopECommerce - URL open window maximized
+2020-09-02 17:04:51,587 [main] INFO nopECommerce - providing customer details....
+2020-09-02 17:04:55,291 [main] INFO nopECommerce - Add New Customer button click
+2020-09-02 17:08:41,177 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-02 17:08:45,056 [main] INFO nopECommerce - Try to open URL
+2020-09-02 17:08:52,408 [main] INFO nopECommerce - URL open window maximized
+2020-09-02 17:09:01,319 [main] INFO nopECommerce - Login Page :Login Successful
+2020-09-02 17:09:04,299 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-02 17:09:06,821 [main] INFO nopECommerce - Try to open URL
+2020-09-02 17:09:12,327 [main] INFO nopECommerce - URL open window maximized
+2020-09-02 17:09:17,033 [main] INFO nopECommerce - providing customer details....
+2020-09-02 17:09:20,468 [main] INFO nopECommerce - Add New Customer button click
+2020-09-02 17:18:52,249 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-02 17:18:56,917 [main] INFO nopECommerce - Try to open URL
+2020-09-02 17:19:02,636 [main] INFO nopECommerce - URL open window maximized
+2020-09-02 17:19:08,912 [main] INFO nopECommerce - Login Page :Login Successful
+2020-09-02 17:19:12,634 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-02 17:19:15,694 [main] INFO nopECommerce - Try to open URL
+2020-09-02 17:19:21,316 [main] INFO nopECommerce - URL open window maximized
+2020-09-02 17:19:26,054 [main] INFO nopECommerce - providing customer details....
+2020-09-02 17:19:30,055 [main] INFO nopECommerce - Add New Customer button click
+2020-09-02 17:19:33,258 [main] INFO nopECommerce - Email id added
+2020-09-02 17:19:33,412 [main] INFO nopECommerce - Password entered
+2020-09-02 17:19:33,690 [main] INFO nopECommerce - Name added
+2020-09-02 17:19:33,909 [main] INFO nopECommerce - Gender and DOB added
+2020-09-02 17:19:34,105 [main] INFO nopECommerce - Company Name and Tax details added
+2020-09-02 17:20:06,074 [main] INFO nopECommerce - Save button clicked
+2020-09-02 17:20:06,074 [main] INFO nopECommerce - validation started....
+2020-09-02 17:20:06,416 [main] INFO nopECommerce - test case passed....
+2020-09-02 17:22:08,022 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-02 17:22:11,763 [main] INFO nopECommerce - Try to open URL
+2020-09-02 17:22:19,075 [main] INFO nopECommerce - URL open window maximized
+2020-09-02 17:22:24,576 [main] INFO nopECommerce - Login Page :Login Successful
+2020-09-02 17:22:28,517 [main] INFO nopECommerce - SetUp method : Going to read browser details
+2020-09-02 17:22:31,118 [main] INFO nopECommerce - Try to open URL
+2020-09-02 17:22:39,540 [main] INFO nopECommerce - URL open window maximized
+2020-09-02 17:22:45,210 [main] INFO nopECommerce - providing customer details....
+2020-09-02 17:22:49,453 [main] INFO nopECommerce - Add New Customer button click
+2020-09-02 17:22:52,653 [main] INFO nopECommerce - Email id added
+2020-09-02 17:22:52,788 [main] INFO nopECommerce - Password entered
+2020-09-02 17:22:53,027 [main] INFO nopECommerce - Name added
+2020-09-02 17:22:53,258 [main] INFO nopECommerce - Gender and DOB added
+2020-09-02 17:22:53,470 [main] INFO nopECommerce - Company Name and Tax details added
+2020-09-02 17:23:25,517 [main] INFO nopECommerce - Save button clicked
+2020-09-02 17:23:25,517 [main] INFO nopECommerce - validation started....
+2020-09-02 17:23:25,929 [main] INFO nopECommerce - test case passed....
